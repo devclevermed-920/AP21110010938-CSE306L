@@ -1,0 +1,86 @@
+
+ # is invalid input
+ include is identifier
+ < is Relational operator Lessthan
+ stdio is identifier
+ . is numeric constant
+ h is identifier
+ > is Relational operator Greaterthan 
+ int is keyword
+   is invalid input
+ main is identifier
+ { is invalid input 
+ int is keyword
+   is invalid input
+ a is identifier
+ , is invalid input
+   is invalid input
+ b is identifier
+ , is invalid input
+ c is identifier
+ ; is invalid input
+ if is identifier
+ ( is invalid input
+ a is identifier
+ > is Relational operator Greaterthan
+ b is identifier
+ ) is invalid input
+ { is invalid input
+ printf is identifier
+ ( is invalid input
+ " is invalid input
+ greater is identifier
+ " is invalid input
+ ' is invalid input
+ ) is invalid input
+ ; is invalid input
+ } is invalid input 
+ else is keyword
+ { is invalid input
+ printf is identifier
+ ( is invalid input
+ " is invalid input
+ less is identifier
+ " is invalid input
+ ) is invalid input
+ ; is invalid input
+ } is invalid input
+ \ is invalid input
+ \ is invalid input
+ compile is identifier
+   is invalid input
+ design is identifier
+ printf is identifier
+ ( is invalid input
+ " is invalid input
+ my is identifier
+   is invalid input
+ name is identifier
+   is invalid input
+ is is identifier
+   is invalid input
+ Anu is identifier
+ " is invalid input
+ ) is invalid input
+ ; is invalid input
+ } is invalid input
+
+ the contents of symbol table are :
+
+ include
+ stdio
+ h
+ main
+ a
+ b
+ c
+ if
+ printf
+ greater
+ 
+ compile
+ design
+ my
+ name
+ is
+ Anu
